@@ -1,0 +1,11 @@
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\bin\Debug\Задание 9.exe.config
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\bin\Debug\Задание 9.exe
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\bin\Debug\Задание 9.pdb
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\obj\Debug\Задание 9.csprojAssemblyReference.cache
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\obj\Debug\Задание_9.Form1.resources
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\obj\Debug\Задание_9.Properties.Resources.resources
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\obj\Debug\Задание 9.csproj.GenerateResource.cache
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\obj\Debug\Задание 9.csproj.CoreCompileInputs.cache
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\obj\Debug\Задание 9.exe
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\obj\Debug\Задание 9.pdb
+E:\3 курс\УП01.01\meine\Задание 9\Задание 9\Задание 9\obj\Debug\Задание_9.Form2.resources
